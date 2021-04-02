@@ -1,1 +1,2 @@
-
+Almost every fact or theorem I have seen concerning eigenvectors begins with "Suppose v is an eigenvector. Then..."  I had the darndest time proving to myself that in fact every matrix does have at least one eigenvector. That is the focus of my Eigenvector white paper.
+As for tensors, I could not find in one place all of the basic underlying stuff that every text book seems to just assume you know. I accumulated all of the things that were preventing me from reading even the supposedly introductory texts and laid them out so that I could 'move forward'.
